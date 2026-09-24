@@ -1,16 +1,34 @@
-<img align="right" src="./assets/avatar.png" width="250" alt="Avatar de Kaique Borlenghi" />
-
-# Kaique Borlenghi
+<table width="100%">
+  <tr>
+    <td width="68%" valign="middle" align="left">
+      <h1>Kaique Borlenghi</h1>
+      <a href="https://www.linkedin.com/in/kaique-borlenghi-da-silva-2150643a2/">
+        <img
+          src="https://img.shields.io/badge/LinkedIn-Conectar-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"
+          alt="LinkedIn"
+        >
+      </a>
+      <a href="mailto:kaiqueborlenghi3d@gmail.com">
+        <img
+          src="https://img.shields.io/badge/E--mail-Contato-EA4335?style=for-the-badge&logo=gmail&logoColor=white"
+          alt="E-mail"
+        >
+      </a>
+    </td>
+    <td width="32%" valign="middle" align="right">
+      <img
+        src="./assets/avatar.png"
+        width="100%"
+        alt="Avatar de Kaique Borlenghi"
+      >
+    </td>
+  </tr>
+</table>
 
 ---
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Conectar-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kaique-borlenghi-da-silva-2150643a2/)
-[![E-mail](https://img.shields.io/badge/E--mail-Contato-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kaiqueborlenghi3d@gmail.com)
-
-<br clear="right"/>
-
-
 ## Hello, devs 👋
+
 
 Estudante de **Engenharia de Software**, transformando aprendizado, criatividade e tecnologia em projetos reais.
 
@@ -80,29 +98,11 @@ Fora do ambiente de desenvolvimento, gosto de explorar **edição de vídeo**, *
 
 Acredito que criatividade e tecnologia funcionam melhor juntas: uma ajuda a imaginar possibilidades; a outra ajuda a colocá-las no mundo.
 
----
-
-## Estatísticas do GitHub
-
-<div align="center">
-  <img
-    height="180em"
-    src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Borlenghi-KB&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"
-    alt="Estatísticas do GitHub"
-  />
-  <img
-    height="180em"
-    src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Borlenghi-KB&layout=compact&langs_count=7&theme=dracula"
-    alt="Linguagens mais usadas"
-  />
-</div>
-
-
 
 ---
 
 <div align="center">
-
-> “Aprender, criar e evoluir: um projeto por vez.”
-
+  <br>
+  <i>“Aprender, criar e evoluir: um projeto por vez.”</i>
+  <br><br>
 </div>
